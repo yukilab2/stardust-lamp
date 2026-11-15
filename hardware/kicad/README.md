@@ -4,7 +4,7 @@
 つないでいます。ここにあるのは、同じ回路を KiCad 10 で描き直し、
 部品の間をワイヤーでつないだものです。
 
-- 回路図: [schematic_kicad.pdf](schematic_kicad.pdf)（A3 × 3 枚）
+- 回路図: [schematic_kicad.pdf](schematic_kicad.pdf)（A4 横 × 3 枚）
 - KiCad プロジェクト: [hosikuzu.kicad_pro](hosikuzu.kicad_pro)
 
 ## シートの分け方
@@ -32,7 +32,7 @@
 - TPS63070（U3）は KiCad の公式ライブラリに無いので、専用シンボルを
   [hosikuzu.kicad_sym](hosikuzu.kicad_sym) に置きました
 - ネットラベルを付けたのは主なネットだけです。
-  残り 31 本は KiCad の自動名（`Net-(Q2-B)` など）です
+  残り 33 本は KiCad の自動名（`Net-(Q2-B)` など）です
 
 ## 注意
 
