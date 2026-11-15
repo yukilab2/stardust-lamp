@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "hosikuzu") (type "KiCad") (uri "${KIPRJMOD}/hosikuzu.kicad_sym") (options "") (descr "星屑灯 専用シンボル"))
+)
